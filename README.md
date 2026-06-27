@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jakub</h1>
 
-<!--
-**JakubBakaj/JakubBakaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Developer from Poland 🇵🇱</h3>
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,nodejs,deno,docker,git,postgres" />
+</p>
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=JakubBakaj&theme=dark)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JakubBakaj&layout=compact&theme=dark)
+
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=JakubBakaj&theme=dark)
